@@ -27,7 +27,7 @@
    ```
    https://github.com/NomaDamas/k-skill 의 rhwp-edit 스킬을 내 ~/.claude/skills 에 설치해 줘.
    ```
-4. 검증 단계에서 `npx k-skill-rhwp`(Node.js 18 이상)와 Python을 씁니다. 없으면 클로드 코드가 설치를 안내합니다.
+4. hwpx 빌드에 Python을, 검증 단계(`npx k-skill-rhwp`)에 Node.js 18 이상을 씁니다.
 
 ## 쓰는 법
 
